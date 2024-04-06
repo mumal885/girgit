@@ -3,7 +3,7 @@
 
 
 
-![logo](https://github.com/mumal885/simon/blob/main/Screenshot%202023-02-18%20105106.png)
+![logo](https://github.com/mumal885/girgit/blob/main/Screenshot%202024-04-06%20095112.png)
 # simon
 This simon is coded in html, css,js.
 

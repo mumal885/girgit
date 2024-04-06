@@ -4,6 +4,7 @@
 
 
 ![logo](https://github.com/mumal885/girgit/blob/main/Screenshot%202024-04-06%20095112.png)
+![logo](https://github.com/mumal885/girgit/blob/main/Screenshot%202024-04-06%20095138.png)
 # simon
 This simon is coded in html, css,js.
 
